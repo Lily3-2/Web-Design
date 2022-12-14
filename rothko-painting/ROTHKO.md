@@ -1,6 +1,6 @@
 # ROTHKO PAINTING
 
-# freeCodeCamp Rsponsive Web design
+# freeCodeCamp Rsponsive Web design (🔥)
 
 Using the concept of Box Model in HTML the following web deisgn depicts Rothko-style rectangular art pieces. 
 
