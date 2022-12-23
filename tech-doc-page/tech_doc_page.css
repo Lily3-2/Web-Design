@@ -46,6 +46,11 @@ section{
   width:300px;
   height: 100%;
   border: 1px solid rgba(0, 22, 22, 0.4);
+  border-left: 3px solid #4d4e53;
+}
+
+#navbar header {
+  text-align: center;
 }
 
 #navbar ul{
@@ -78,10 +83,23 @@ section{
     height: 207px;
   }
 
+  #navbar {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid;
+  }
+
     #main-doc {
     position: relative;
     margin-left: 0px;
-    margin-top: 270px;
+    margin-top: 0px;
   }
 }
 
